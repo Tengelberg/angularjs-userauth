@@ -1,0 +1,16 @@
+{
+  "name": "angularjs-userauth",
+  "version": "1.0.0",
+  "description": "Basic JWT user authentication service for Node.js backends with passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/exseffi/angularjs-userauth.git"
+  },
+  "author": "Tobias Engelberg, enerxess GmbH",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/exseffi/angularjs-userauth#readme"
+}

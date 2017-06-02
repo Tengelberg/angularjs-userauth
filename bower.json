@@ -1,0 +1,34 @@
+{
+  "name": "angularjs-userauth",
+  "version": "1.0.0",
+  "authors": [
+    "Tobias Engelberg <tobias.engelberg@enerxess.com>"
+  ],
+  "dependencies": {
+    "angular": ">=1.5.0",
+    "angular-resource": ">=1.5.0",
+    "angular-cookies": ">=1.5.0"
+  },
+  "description": "Basic JWT user authentication service for Node.js backends with passport.js",
+  "main": "angular-userauth.js",
+  "keywords": [
+    "userservice",
+    "authentication",
+    "node",
+    "node.js",
+    "passport",
+    "passport.js",
+    "user",
+    "auth"
+  ],
+  "license": "Exclusive",
+  "homepage": "https://bitbucket.org/exseffi/angularjs-userauth",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
